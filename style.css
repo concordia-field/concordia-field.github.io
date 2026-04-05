@@ -1224,3 +1224,13 @@ html[data-theme="light"] body{
   background-size: auto, 360px 360px;
   background-blend-mode: multiply, multiply;
 }
+
+
+.system .system__actions ul.list,
+.system .system__actions ul.list li{
+  color: rgba(246,237,214,0.88);
+}
+
+.system .system__actions ul.list li::marker{
+  color: var(--gold);
+}
