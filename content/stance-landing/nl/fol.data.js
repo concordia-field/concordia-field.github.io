@@ -189,27 +189,31 @@ window.__PAGE_DATA = {
     system: {
       id: "system",
       title: "Hoe het veld werkt",
-      intro: "Concordia bouwt aan een gedeeld veld van veiligheid waarin mensen niet alleen welkom zijn, maar ook verantwoordelijkheid dragen voor hoe dat veld in stand blijft.",
+      intro: "Concordia bouwt aan een gedeeld veld van veiligheid waarin mensen niet alleen welkom zijn, maar ook sterker worden door samen te staan.\n\nVandaag voelt recht vaak alsof David altijd tegen Goliath speelt: de individuele burger tegenover banken, overheden, procedures of systemen die meer middelen, tijd en macht hebben.\n\nConcordia wil mee helpen om dat patroon te doorbreken.\nNiet door strijd te organiseren, maar door samenwerking mogelijk te maken.\nDoor mensen, feiten en ervaringen met elkaar te verbinden.\nDoor recht toegankelijker, lichter en collectiever draagbaar te maken.",
+
       flow: [
         {
           key: "Waarnemen",
-          text: "We nemen waar zonder onmiddellijk in te vullen."
+          text: "We verzamelen signalen, getuigenissen en feiten zodat individuele ervaringen niet geïsoleerd blijven."
         },
         {
           key: "Waarheid",
-          text: "We benoemen wat er werkelijk gebeurt, zonder vervorming."
+          text: "We maken patronen zichtbaar: waar systemen structureel dezelfde breuken, asymmetrieën of vormen van onrecht produceren."
         },
         {
           key: "Rechtvaardigheid",
-          text: "We brengen balans op een manier die klopt voor alle betrokkenen."
+          text: "We helpen mensen samen opkomen voor recht, zodat wat individueel zwaar en duur is, collectief sterker en toegankelijker wordt."
         }
       ],
+
       practicalTitle: "In de praktijk",
       practicalItems: [
-        "Een vereniging gedragen door 13 principes",
-        "Gedeelde verantwoordelijkheid tussen leden",
-        "Aanspreekbaarheid wanneer principes niet worden nageleefd",
-        "Een cultuur waarin veiligheid, waarheid en vrijheid samen bewaakt worden"
+        "Getuigenissen en feiten verzamelen zodat ervaringen niet verloren gaan",
+        "Patronen herkennen over dossiers, sectoren en terugkerende vormen van onrecht",
+        "Mensen verbinden rond gelijkaardige situaties in plaats van hen alleen te laten staan",
+        "Gezamenlijke vorderingen of collectieve trajecten helpen organiseren",
+        "Individueel opkomen voor recht vereenvoudigen en op termijn bijna kosteloos maken",
+        "AI gebruiken om samenwerking, structurering en toegankelijkheid te versterken"
       ]
     },
 
